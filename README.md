@@ -1,4 +1,5 @@
 ## Avocado prices project
+To see the project with its code and cool diagrams, visit [this notebook.](https://nbviewer.jupyter.org/github/nminnie/Prices-prediction/blob/master/price_forecasting.ipynb)
 ### The dataset
 The dataset contains 18,000 records of avocado prices, recorded weekly from 2015 to 2018 in 52 regions in USA.
 ### Time series analysis
